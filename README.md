@@ -14,6 +14,9 @@
   ![parentInfo](https://github.com/halilibrahimyildirim/Bayesian-Network/blob/master/screenshots/ParentInfo.png)<br>
 ## Output
   ![output](https://github.com/halilibrahimyildirim/Bayesian-Network/blob/master/screenshots/Output.png)<br>
+## Packages
+  You will need this package.<br>
+  [Big Float](https://github.com/Osinko/BigFloat)<br>
 ## Contact
 Halil İbrahim Yıldırım - halil.ibr.yildirim@gmail.com
 
